@@ -1,0 +1,6 @@
+[submodule "project-1-ERS-java"]
+	path = project-1-ERS-java
+	url = https://github.com/cvogit/project-1-ERS-java.git
+[submodule "project-1-ERS-react"]
+	path = project-1-ERS-react
+	url = https://github.com/cvogit/project-1-ERS-react.git
