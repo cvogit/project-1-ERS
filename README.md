@@ -17,3 +17,7 @@ The back-end system shall use JDBC to connect to a PostgreSQL database. The appl
 * Designed a ERD from given specifications to persist application data
 * Applied continuous integration with Amazon CodeBuild and CodePipeline
 * Hosted UI on Amazon S3 and server through Elastic Beanstalk
+
+## Environment / Technologies
+
+JavaScript, HTML, CSS, AJAX, SQL, Java, Servlets, JDBC, React, Axios, Reactstrap, Material-ui, AWS CodeBuild, AWS Code Pipeline, AWS S3, AWS Elastic Beanstalk.
